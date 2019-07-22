@@ -6,14 +6,13 @@ namespace Exam2
     {
         static void Main(string[] args)
         {
-            string st; //khai bao chuoi ban dau
-            string word; //khai bao chuoi con can tim
+            string st = "Aptech Computer Center"; 
+            string word;
             int strt = 0;
             int cnt = -1;
             int idx = -1;
             
-            Console.WriteLine("Enter a String");
-            st = Console.ReadLine();
+            Console.WriteLine("Enter a String \n" + st);
             Console.WriteLine("Enter a word to search");
             word = Console.ReadLine();
             
