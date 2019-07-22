@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b46a9ddf-18d8-408c-91f8-845156c2ad49" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Asaigment/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1380">
+              <caret line="92" lean-forward="true" selection-start-line="92" selection-end-line="92" />
+              <folding>
+                <marker date="1563814350872" expanded="true" signature="6:56" ph="..." />
+                <marker date="1563814350872" expanded="true" signature="78:3497" ph="{...}" />
+                <marker date="1563814350872" expanded="true" signature="99:3344" ph="{...}" />
+                <marker date="1563814350872" expanded="true" signature="203:1847" ph="{...}" />
+                <marker date="1563814350872" expanded="true" signature="238:1837" ph="{...}" />
+                <marker date="1563814350872" expanded="true" signature="861:1263" ph="{...}" />
+                <marker date="1563814350872" expanded="true" signature="1367:1823" ph="{...}" />
+                <marker date="1563814350872" expanded="true" signature="1919:3338" ph="{...}" />
+                <marker date="1563814350872" expanded="true" signature="1954:3328" ph="{...}" />
+                <marker date="1563814350872" expanded="true" signature="2616:3217" ph="{...}" />
+                <marker date="1563814350872" expanded="true" signature="3251:3314" ph="{...}" />
+                <marker date="1563814350872" expanded="true" signature="3385:3495" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Asaigment/demo/GiaoDichSHB.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+              <folding>
+                <marker date="1563814290386" expanded="true" signature="6:60" ph="..." />
+                <marker date="1563814290386" expanded="true" signature="81:5971" ph="{...}" />
+                <marker date="1563814290386" expanded="true" signature="123:5969" ph="{...}" />
+                <marker date="1563814290386" expanded="true" signature="265:338" ph="{...}" />
+                <marker date="1563814290386" expanded="true" signature="369:438" ph="{...}" />
+                <marker date="1563814290386" expanded="true" signature="469:538" ph="{...}" />
+                <marker date="1563814290386" expanded="true" signature="573:642" ph="{...}" />
+                <marker date="1563814290386" expanded="true" signature="677:748" ph="{...}" />
+                <marker date="1563814290386" expanded="true" signature="777:1592" ph="{...}" />
+                <marker date="1563814290386" expanded="true" signature="1287:1524" ph="{...}" />
+                <marker date="1563814290386" expanded="true" signature="1623:3004" ph="{...}" />
+                <marker date="1563814290386" expanded="true" signature="1689:2866" ph="{...}" />
+                <marker date="1563814290386" expanded="true" signature="1976:2123" ph="{...}" />
+                <marker date="1563814290386" expanded="true" signature="2194:2745" ph="{...}" />
+                <marker date="1563814290386" expanded="true" signature="2883:2994" ph="{...}" />
+                <marker date="1563814290386" expanded="true" signature="3035:5963" ph="{...}" />
+                <marker date="1563814290386" expanded="true" signature="3102:4270" ph="{...}" />
+                <marker date="1563814290386" expanded="true" signature="3380:3527" ph="{...}" />
+                <marker date="1563814290386" expanded="true" signature="3598:4149" ph="{...}" />
+                <marker date="1563814290386" expanded="true" signature="4287:4398" ph="{...}" />
+                <marker date="1563814290386" expanded="true" signature="4430:5953" ph="{...}" />
+                <marker date="1563814290386" expanded="true" signature="4505:5795" ph="{...}" />
+                <marker date="1563814290386" expanded="true" signature="4829:4992" ph="{...}" />
+                <marker date="1563814290386" expanded="true" signature="5071:5666" ph="{...}" />
+                <marker date="1563814290386" expanded="true" signature="5816:5939" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Asaigment/entity/SHBAccount.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+              <folding>
+                <marker date="1563814290059" expanded="true" signature="40:692" ph="{...}" />
+                <marker date="1563814290059" expanded="true" signature="70:686" ph="{...}" />
+                <marker date="1563814290059" expanded="true" signature="458:618" ph="{...}" />
+                <marker date="1563814290059" expanded="true" signature="647:680" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Asaigment/model/SHBAccountModel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-30">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+              <folding>
+                <marker date="1563814290104" expanded="true" signature="6:92" ph="..." />
+                <marker date="1563814290104" expanded="true" signature="119:4881" ph="{...}" />
+                <marker date="1563814290104" expanded="true" signature="154:4879" ph="{...}" />
+                <marker date="1563814290104" expanded="true" signature="254:1129" ph="{...}" />
+                <marker date="1563814290104" expanded="true" signature="741:1030" ph="{...}" />
+                <marker date="1563814290104" expanded="true" signature="816:1015" ph="{...}" />
+                <marker date="1563814290104" expanded="true" signature="1227:4873" ph="{...}" />
+                <marker date="1563814290104" expanded="true" signature="1420:4604" ph="{...}" />
+                <marker date="1563814290104" expanded="true" signature="1865:1974" ph="{...}" />
+                <marker date="1563814290104" expanded="true" signature="2054:2197" ph="{...}" />
+                <marker date="1563814290104" expanded="true" signature="2241:2572" ph="{...}" />
+                <marker date="1563814290104" expanded="true" signature="2327:2489" ph="{...}" />
+                <marker date="1563814290104" expanded="true" signature="2620:2721" ph="{...}" />
+                <marker date="1563814290104" expanded="true" signature="4435:4558" ph="{...}" />
+                <marker date="1563814290104" expanded="true" signature="4636:4789" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Asaigment/model/BlockchainAddressModel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+              <folding>
+                <marker date="1563814290196" expanded="true" signature="6:92" ph="..." />
+                <marker date="1563814290196" expanded="true" signature="121:5604" ph="{...}" />
+                <marker date="1563814290196" expanded="true" signature="163:5602" ph="{...}" />
+                <marker date="1563814290196" expanded="true" signature="264:1201" ph="{...}" />
+                <marker date="1563814290196" expanded="true" signature="731:1092" ph="{...}" />
+                <marker date="1563814290196" expanded="true" signature="1239:1308" ph="{...}" />
+                <marker date="1563814290196" expanded="true" signature="1568:5260" ph="{...}" />
+                <marker date="1563814290196" expanded="true" signature="1761:5009" ph="{...}" />
+                <marker date="1563814290196" expanded="true" signature="2218:2327" ph="{...}" />
+                <marker date="1563814290196" expanded="true" signature="2406:2532" ph="{...}" />
+                <marker date="1563814290196" expanded="true" signature="2592:2947" ph="{...}" />
+                <marker date="1563814290196" expanded="true" signature="2688:2853" ph="{...}" />
+                <marker date="1563814290196" expanded="true" signature="3005:3116" ph="{...}" />
+                <marker date="1563814290196" expanded="true" signature="4841:4962" ph="{...}" />
+                <marker date="1563814290196" expanded="true" signature="5041:5178" ph="{...}" />
+                <marker date="1563814290196" expanded="true" signature="5351:5420" ph="{...}" />
+                <marker date="1563814290196" expanded="true" signature="5527:5596" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Asaigment/demo/GiaoDichBlockchain.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+              <folding>
+                <marker date="1563814290167" expanded="true" signature="6:60" ph="..." />
+                <marker date="1563814290167" expanded="true" signature="82:6181" ph="{...}" />
+                <marker date="1563814290167" expanded="true" signature="131:6179" ph="{...}" />
+                <marker date="1563814290167" expanded="true" signature="167:243" ph="{...}" />
+                <marker date="1563814290167" expanded="true" signature="274:350" ph="{...}" />
+                <marker date="1563814290167" expanded="true" signature="385:461" ph="{...}" />
+                <marker date="1563814290167" expanded="true" signature="497:566" ph="{...}" />
+                <marker date="1563814290167" expanded="true" signature="595:1435" ph="{...}" />
+                <marker date="1563814290167" expanded="true" signature="1125:1345" ph="{...}" />
+                <marker date="1563814290167" expanded="true" signature="1466:2962" ph="{...}" />
+                <marker date="1563814290167" expanded="true" signature="1532:2820" ph="{...}" />
+                <marker date="1563814290167" expanded="true" signature="1826:1973" ph="{...}" />
+                <marker date="1563814290167" expanded="true" signature="2044:2593" ph="{...}" />
+                <marker date="1563814290167" expanded="true" signature="2837:2952" ph="{...}" />
+                <marker date="1563814290167" expanded="true" signature="2993:6173" ph="{...}" />
+                <marker date="1563814290167" expanded="true" signature="3059:4347" ph="{...}" />
+                <marker date="1563814290167" expanded="true" signature="3353:3500" ph="{...}" />
+                <marker date="1563814290167" expanded="true" signature="3571:4120" ph="{...}" />
+                <marker date="1563814290167" expanded="true" signature="4364:4479" ph="{...}" />
+                <marker date="1563814290167" expanded="true" signature="4511:6156" ph="{...}" />
+                <marker date="1563814290167" expanded="true" signature="4585:5994" ph="{...}" />
+                <marker date="1563814290167" expanded="true" signature="4916:5079" ph="{...}" />
+                <marker date="1563814290167" expanded="true" signature="5158:5751" ph="{...}" />
+                <marker date="1563814290167" expanded="true" signature="6015:6142" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Asaigment/model/ConnectionHelper.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <marker date="1563813881302" expanded="false" signature="6:48" ph="..." />
+                <marker date="1563813881302" expanded="true" signature="79:1089" ph="{...}" />
+                <marker date="1563813881302" expanded="true" signature="115:1087" ph="{...}" />
+                <marker date="1563813881302" expanded="true" signature="432:811" ph="{...}" />
+                <marker date="1563813881302" expanded="true" signature="536:752" ph="{...}" />
+                <marker date="1563813881302" expanded="true" signature="865:1081" ph="{...}" />
+                <marker date="1563813881302" expanded="true" signature="969:1021" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Asaigment/entity/BlockchainAddress.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+              <folding>
+                <marker date="1563814290336" expanded="true" signature="40:679" ph="{...}" />
+                <marker date="1563814290336" expanded="true" signature="77:677" ph="{...}" />
+                <marker date="1563814290336" expanded="true" signature="447:566" ph="{...}" />
+                <marker date="1563814290336" expanded="true" signature="602:671" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Asaigment/entity/BlockchainTransaction.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="19" selection-start-column="19" selection-end-column="19" />
+              <folding>
+                <marker date="1563814290294" expanded="true" signature="26:768" ph="{...}" />
+                <marker date="1563814290294" expanded="true" signature="67:766" ph="{...}" />
+                <marker date="1563814290294" expanded="true" signature="578:760" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Asaigment/entity/BlockchainAddress.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Asaigment/entity/BlockchainTransaction.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Asaigment/entity/SHBAccount.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Asaigment/entity/SHBTransaction.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Asaigment/model/BlockchainAddressModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Asaigment/model/ConnectionHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Asaigment/demo/GiaoDichBlockchain.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Asaigment/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Asaigment/model/SHBAccountModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Asaigment/demo/GiaoDichSHB.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Asaigment/model/Program.cs" />
+        <option value="$PROJECT_DIR$/Asaigment/model/ConnectionHelper.cs" />
+        <option value="$PROJECT_DIR$/Asaigment/entity/SHBAccount.cs" />
+        <option value="$PROJECT_DIR$/Asaigment/entity/SHBTransaction.cs" />
+        <option value="$PROJECT_DIR$/Asaigment/demo/GiaoDich.cs" />
+        <option value="$PROJECT_DIR$/Asaigment/entity/BlockchainAddress.cs" />
+        <option value="$PROJECT_DIR$/Asaigment/entity/BlockchainTransaction.cs" />
+        <option value="$PROJECT_DIR$/Asaigment/model/SHBAccountModel.cs" />
+        <option value="$PROJECT_DIR$/Asaigment/demo/GiaoDichSHB.cs" />
+        <option value="$PROJECT_DIR$/Asaigment/demo/GiaoDichBlockchain.cs" />
+        <option value="$PROJECT_DIR$/Asaigment/model/BlockchainAddressModel.cs" />
+        <option value="$PROJECT_DIR$/Asaigment/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="20" />
+    <option name="width" value="1554" />
+    <option name="height" value="809" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Asaigment" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Asaigment" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Asaigment" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Asaigment" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Asaigment" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="demo" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Asaigment" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Asaigment" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="entity" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Asaigment/bin/Debug/netcoreapp2.2/Asaigment.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Asaigment" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Asaigment/Asaigment.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.2" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b46a9ddf-18d8-408c-91f8-845156c2ad49" name="Default Changelist" comment="" />
+      <created>1563813791094</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563813791094</updated>
+      <workItem from="1563813792513" duration="558000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="558000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24949698" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" weight="0.32916668" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Performance Profiler" />
+      <window_info anchor="bottom" id="Build" weight="0.32916668" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32916668" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Asaigment/model/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Asaigment/entity/SHBTransaction.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="42" lean-forward="true" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+          <folding>
+            <marker date="1563814290128" expanded="true" signature="26:865" ph="{...}" />
+            <marker date="1563814290128" expanded="true" signature="60:863" ph="{...}" />
+            <marker date="1563814290128" expanded="true" signature="523:543" ph="{...}" />
+            <marker date="1563814290128" expanded="true" signature="663:857" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Asaigment/model/ConnectionHelper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <marker date="1563813881302" expanded="false" signature="6:48" ph="..." />
+            <marker date="1563813881302" expanded="true" signature="79:1089" ph="{...}" />
+            <marker date="1563813881302" expanded="true" signature="115:1087" ph="{...}" />
+            <marker date="1563813881302" expanded="true" signature="432:811" ph="{...}" />
+            <marker date="1563813881302" expanded="true" signature="536:752" ph="{...}" />
+            <marker date="1563813881302" expanded="true" signature="865:1081" ph="{...}" />
+            <marker date="1563813881302" expanded="true" signature="969:1021" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Asaigment/model/SHBAccountModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <marker date="1563814290104" expanded="true" signature="6:92" ph="..." />
+            <marker date="1563814290104" expanded="true" signature="119:4881" ph="{...}" />
+            <marker date="1563814290104" expanded="true" signature="154:4879" ph="{...}" />
+            <marker date="1563814290104" expanded="true" signature="254:1129" ph="{...}" />
+            <marker date="1563814290104" expanded="true" signature="741:1030" ph="{...}" />
+            <marker date="1563814290104" expanded="true" signature="816:1015" ph="{...}" />
+            <marker date="1563814290104" expanded="true" signature="1227:4873" ph="{...}" />
+            <marker date="1563814290104" expanded="true" signature="1420:4604" ph="{...}" />
+            <marker date="1563814290104" expanded="true" signature="1865:1974" ph="{...}" />
+            <marker date="1563814290104" expanded="true" signature="2054:2197" ph="{...}" />
+            <marker date="1563814290104" expanded="true" signature="2241:2572" ph="{...}" />
+            <marker date="1563814290104" expanded="true" signature="2327:2489" ph="{...}" />
+            <marker date="1563814290104" expanded="true" signature="2620:2721" ph="{...}" />
+            <marker date="1563814290104" expanded="true" signature="4435:4558" ph="{...}" />
+            <marker date="1563814290104" expanded="true" signature="4636:4789" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Asaigment/model/BlockchainAddressModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <marker date="1563814290196" expanded="true" signature="6:92" ph="..." />
+            <marker date="1563814290196" expanded="true" signature="121:5604" ph="{...}" />
+            <marker date="1563814290196" expanded="true" signature="163:5602" ph="{...}" />
+            <marker date="1563814290196" expanded="true" signature="264:1201" ph="{...}" />
+            <marker date="1563814290196" expanded="true" signature="731:1092" ph="{...}" />
+            <marker date="1563814290196" expanded="true" signature="1239:1308" ph="{...}" />
+            <marker date="1563814290196" expanded="true" signature="1568:5260" ph="{...}" />
+            <marker date="1563814290196" expanded="true" signature="1761:5009" ph="{...}" />
+            <marker date="1563814290196" expanded="true" signature="2218:2327" ph="{...}" />
+            <marker date="1563814290196" expanded="true" signature="2406:2532" ph="{...}" />
+            <marker date="1563814290196" expanded="true" signature="2592:2947" ph="{...}" />
+            <marker date="1563814290196" expanded="true" signature="2688:2853" ph="{...}" />
+            <marker date="1563814290196" expanded="true" signature="3005:3116" ph="{...}" />
+            <marker date="1563814290196" expanded="true" signature="4841:4962" ph="{...}" />
+            <marker date="1563814290196" expanded="true" signature="5041:5178" ph="{...}" />
+            <marker date="1563814290196" expanded="true" signature="5351:5420" ph="{...}" />
+            <marker date="1563814290196" expanded="true" signature="5527:5596" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Asaigment/entity/BlockchainTransaction.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+          <folding>
+            <marker date="1563814290294" expanded="true" signature="26:768" ph="{...}" />
+            <marker date="1563814290294" expanded="true" signature="67:766" ph="{...}" />
+            <marker date="1563814290294" expanded="true" signature="578:760" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Asaigment/entity/BlockchainAddress.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+          <folding>
+            <marker date="1563814290336" expanded="true" signature="40:679" ph="{...}" />
+            <marker date="1563814290336" expanded="true" signature="77:677" ph="{...}" />
+            <marker date="1563814290336" expanded="true" signature="447:566" ph="{...}" />
+            <marker date="1563814290336" expanded="true" signature="602:671" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Asaigment/entity/SHBAccount.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+          <folding>
+            <marker date="1563814290059" expanded="true" signature="40:692" ph="{...}" />
+            <marker date="1563814290059" expanded="true" signature="70:686" ph="{...}" />
+            <marker date="1563814290059" expanded="true" signature="458:618" ph="{...}" />
+            <marker date="1563814290059" expanded="true" signature="647:680" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Asaigment/demo/GiaoDichSHB.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <marker date="1563814290386" expanded="true" signature="6:60" ph="..." />
+            <marker date="1563814290386" expanded="true" signature="81:5971" ph="{...}" />
+            <marker date="1563814290386" expanded="true" signature="123:5969" ph="{...}" />
+            <marker date="1563814290386" expanded="true" signature="265:338" ph="{...}" />
+            <marker date="1563814290386" expanded="true" signature="369:438" ph="{...}" />
+            <marker date="1563814290386" expanded="true" signature="469:538" ph="{...}" />
+            <marker date="1563814290386" expanded="true" signature="573:642" ph="{...}" />
+            <marker date="1563814290386" expanded="true" signature="677:748" ph="{...}" />
+            <marker date="1563814290386" expanded="true" signature="777:1592" ph="{...}" />
+            <marker date="1563814290386" expanded="true" signature="1287:1524" ph="{...}" />
+            <marker date="1563814290386" expanded="true" signature="1623:3004" ph="{...}" />
+            <marker date="1563814290386" expanded="true" signature="1689:2866" ph="{...}" />
+            <marker date="1563814290386" expanded="true" signature="1976:2123" ph="{...}" />
+            <marker date="1563814290386" expanded="true" signature="2194:2745" ph="{...}" />
+            <marker date="1563814290386" expanded="true" signature="2883:2994" ph="{...}" />
+            <marker date="1563814290386" expanded="true" signature="3035:5963" ph="{...}" />
+            <marker date="1563814290386" expanded="true" signature="3102:4270" ph="{...}" />
+            <marker date="1563814290386" expanded="true" signature="3380:3527" ph="{...}" />
+            <marker date="1563814290386" expanded="true" signature="3598:4149" ph="{...}" />
+            <marker date="1563814290386" expanded="true" signature="4287:4398" ph="{...}" />
+            <marker date="1563814290386" expanded="true" signature="4430:5953" ph="{...}" />
+            <marker date="1563814290386" expanded="true" signature="4505:5795" ph="{...}" />
+            <marker date="1563814290386" expanded="true" signature="4829:4992" ph="{...}" />
+            <marker date="1563814290386" expanded="true" signature="5071:5666" ph="{...}" />
+            <marker date="1563814290386" expanded="true" signature="5816:5939" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Asaigment/demo/GiaoDich.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Asaigment/demo/GiaoDichBlockchain.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <marker date="1563814290167" expanded="true" signature="6:60" ph="..." />
+            <marker date="1563814290167" expanded="true" signature="82:6181" ph="{...}" />
+            <marker date="1563814290167" expanded="true" signature="131:6179" ph="{...}" />
+            <marker date="1563814290167" expanded="true" signature="167:243" ph="{...}" />
+            <marker date="1563814290167" expanded="true" signature="274:350" ph="{...}" />
+            <marker date="1563814290167" expanded="true" signature="385:461" ph="{...}" />
+            <marker date="1563814290167" expanded="true" signature="497:566" ph="{...}" />
+            <marker date="1563814290167" expanded="true" signature="595:1435" ph="{...}" />
+            <marker date="1563814290167" expanded="true" signature="1125:1345" ph="{...}" />
+            <marker date="1563814290167" expanded="true" signature="1466:2962" ph="{...}" />
+            <marker date="1563814290167" expanded="true" signature="1532:2820" ph="{...}" />
+            <marker date="1563814290167" expanded="true" signature="1826:1973" ph="{...}" />
+            <marker date="1563814290167" expanded="true" signature="2044:2593" ph="{...}" />
+            <marker date="1563814290167" expanded="true" signature="2837:2952" ph="{...}" />
+            <marker date="1563814290167" expanded="true" signature="2993:6173" ph="{...}" />
+            <marker date="1563814290167" expanded="true" signature="3059:4347" ph="{...}" />
+            <marker date="1563814290167" expanded="true" signature="3353:3500" ph="{...}" />
+            <marker date="1563814290167" expanded="true" signature="3571:4120" ph="{...}" />
+            <marker date="1563814290167" expanded="true" signature="4364:4479" ph="{...}" />
+            <marker date="1563814290167" expanded="true" signature="4511:6156" ph="{...}" />
+            <marker date="1563814290167" expanded="true" signature="4585:5994" ph="{...}" />
+            <marker date="1563814290167" expanded="true" signature="4916:5079" ph="{...}" />
+            <marker date="1563814290167" expanded="true" signature="5158:5751" ph="{...}" />
+            <marker date="1563814290167" expanded="true" signature="6015:6142" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Asaigment/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1380">
+          <caret line="92" lean-forward="true" selection-start-line="92" selection-end-line="92" />
+          <folding>
+            <marker date="1563814350872" expanded="true" signature="6:56" ph="..." />
+            <marker date="1563814350872" expanded="true" signature="78:3497" ph="{...}" />
+            <marker date="1563814350872" expanded="true" signature="99:3344" ph="{...}" />
+            <marker date="1563814350872" expanded="true" signature="203:1847" ph="{...}" />
+            <marker date="1563814350872" expanded="true" signature="238:1837" ph="{...}" />
+            <marker date="1563814350872" expanded="true" signature="861:1263" ph="{...}" />
+            <marker date="1563814350872" expanded="true" signature="1367:1823" ph="{...}" />
+            <marker date="1563814350872" expanded="true" signature="1919:3338" ph="{...}" />
+            <marker date="1563814350872" expanded="true" signature="1954:3328" ph="{...}" />
+            <marker date="1563814350872" expanded="true" signature="2616:3217" ph="{...}" />
+            <marker date="1563814350872" expanded="true" signature="3251:3314" ph="{...}" />
+            <marker date="1563814350872" expanded="true" signature="3385:3495" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

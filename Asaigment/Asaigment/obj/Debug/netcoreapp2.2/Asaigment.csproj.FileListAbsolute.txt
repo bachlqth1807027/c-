@@ -1,0 +1,11 @@
+C:\Users\Admin\RiderProjects\Asaigment\Asaigment\bin\Debug\netcoreapp2.2\Asaigment.deps.json
+C:\Users\Admin\RiderProjects\Asaigment\Asaigment\bin\Debug\netcoreapp2.2\Asaigment.runtimeconfig.json
+C:\Users\Admin\RiderProjects\Asaigment\Asaigment\bin\Debug\netcoreapp2.2\Asaigment.runtimeconfig.dev.json
+C:\Users\Admin\RiderProjects\Asaigment\Asaigment\bin\Debug\netcoreapp2.2\Asaigment.dll
+C:\Users\Admin\RiderProjects\Asaigment\Asaigment\bin\Debug\netcoreapp2.2\Asaigment.pdb
+C:\Users\Admin\RiderProjects\Asaigment\Asaigment\obj\Debug\netcoreapp2.2\Asaigment.csprojAssemblyReference.cache
+C:\Users\Admin\RiderProjects\Asaigment\Asaigment\obj\Debug\netcoreapp2.2\Asaigment.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\Asaigment\Asaigment\obj\Debug\netcoreapp2.2\Asaigment.AssemblyInfoInputs.cache
+C:\Users\Admin\RiderProjects\Asaigment\Asaigment\obj\Debug\netcoreapp2.2\Asaigment.AssemblyInfo.cs
+C:\Users\Admin\RiderProjects\Asaigment\Asaigment\obj\Debug\netcoreapp2.2\Asaigment.dll
+C:\Users\Admin\RiderProjects\Asaigment\Asaigment\obj\Debug\netcoreapp2.2\Asaigment.pdb
